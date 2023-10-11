@@ -1,4 +1,4 @@
-# naumber Guessing Game
+# Number Guessing Game
 
 This is a simple number guessing game implemented in TypeScript using the `inquirer` package. In this game, the player is asked to guess a random number between 0 and 9. The player's score increases for each correct guess. The game continues until the player chooses to exit.
 
